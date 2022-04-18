@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.custom-btn{
+    border-radius: 20px;
+    background-color: blue;
+}
+.margin{
+    margin-top: 100px;
+}
+.applink img{
+    height: 45px;
+}
+.products img{
+    margin-top: 20px;
+    height: 500px;
+}
+.intro{
+    background-color: #f8f9fa;
+}
+.row .col-lg-6 .phone img{
+     padding-top: 50px;
+     height: 500px;
+}
+.padforrow{
+    padding-top: 80px;
+}
+.margforrow{
+    padding-top: 10px;
+    padding-bottom: 180px;
+}
+.desc{
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;  
+}
+.logowidth{
+    height: 130px;
+    width: 130px;  
+}
+.textdesc{
+    font-size: 38px;
+}
+.lol{
+    color: #9f1ae2;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pforh2{
+       padding-top: 80px;
+}
+.apps img{
+    height: 45px;
+}
+.foot a{
+    text-decoration: none;
+    color: white;
+}
+.foot a:hover{
+    color: #2937f0;
+}
